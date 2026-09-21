@@ -2,8 +2,6 @@ import numpy as np
 
 def reshape_matrix(a: list[list[int|float]], new_shape: tuple[int, int]) -> list[list[int|float]]:
 	#Write your code here and return a python list after reshaping by using numpy's tolist() method
-
-	# Compare the product rows * cols of the new_shape with the total number of elements in the original matrix a. You can get the total count using np.asarray(a).size. If they differ, return [] early.
 	arr = (np.asarray(a)).flatten()
 	rows = new_shape[0]
 	cols = new_shape[1]
