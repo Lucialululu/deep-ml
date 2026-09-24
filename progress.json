@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T20:39:40.468Z",
+  "generated_at": "2026-09-24T21:21:20.167Z",
   "items": {
     "problem:2": {
       "kind": "problem",
@@ -130,6 +130,19 @@
       "last_pushed_at": "2026-09-24T20:39:39.661Z",
       "language": "python",
       "lines": 5
+    },
+    "problem:59": {
+      "kind": "problem",
+      "id": "59",
+      "title": "Implement Long Short-Term Memory (LSTM) Network",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/59",
+      "path": "problems/0059-implement-long-short-term-memory-lstm-network",
+      "first_solved_at": "2026-09-24T21:21:19.426Z",
+      "last_pushed_at": "2026-09-24T21:21:19.426Z",
+      "language": "python",
+      "lines": 62
     }
   }
 }
