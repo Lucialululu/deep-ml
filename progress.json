@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T19:15:03.118Z",
+  "generated_at": "2026-11-03T19:17:24.051Z",
   "items": {
     "problem:2": {
       "kind": "problem",
@@ -429,6 +429,19 @@
       "last_pushed_at": "2026-11-03T19:15:02.488Z",
       "language": "python",
       "lines": 9
+    },
+    "problem:56": {
+      "kind": "problem",
+      "id": "56",
+      "title": "KL Divergence Between Two Normal Distributions",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/56",
+      "path": "problems/0056-kl-divergence-between-two-normal-distributions",
+      "first_solved_at": "2026-11-03T19:17:23.446Z",
+      "last_pushed_at": "2026-11-03T19:17:23.446Z",
+      "language": "python",
+      "lines": 8
     }
   }
 }
